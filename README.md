@@ -17,3 +17,4 @@
 * public_ip - Public IP of the instance created
 * private_ip - Private IP of the instance created
 * instance_id - Instance ID of the instance created# terraform-aws-instance
+# terraform-aws-instance
